@@ -86,3 +86,8 @@
   .card:hover .text-container {
     right: 15px;
   }
+  .prompt{
+    text-align: center;
+    position: relative; 
+    font-family: cursive;
+  }
